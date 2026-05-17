@@ -68,7 +68,7 @@ Successfully gained initial access through multiple vectors:
 
 ## 📄 Included Reports
 This repository includes detailed documentation of the lab's lifecycle:
-1. [cite_start][Isolated VMware Lab Setup Report](./Reports/Lab_Setup.pdf) 
+1. [Isolated VMware Lab Setup]
 2. [Vulnerability Assessment Metasploitable 2]
 3. [Full Penetration Testing Execution Report]
 
