@@ -47,11 +47,8 @@ Successfully gained initial access through multiple vectors:
 * **PHP CGI Argument Injection** (CVE-2012-1823)
 * **Credential Attacks:** SSH/Telnet brute-forcing and MySQL default credential exploitation.
 
-### 3. Pivoting & Lateral Movement
-* **Proxychains & SSH Tunneling:** Routing traffic through the compromised Metasploitable host to reach the 10.10.10.0/24 segment.
-* **Meterpreter Routing:** Utilizing MSF post-exploitation modules to automate internal routing.
 
-### 4. Privilege Escalation & Post-Exploitation
+### 3. Privilege Escalation & Post-Exploitation
 * **Local Escalation:** Exploiting misconfigurations to gain `ROOT` and `SYSTEM` privileges.
 * **Credential Harvesting:** LSASS memory dumping, NTLM hash extraction, and Token Impersonation.
 
