@@ -1,4 +1,4 @@
-# 🔴 Advanced Penetration Testing & Pivoting Lab
+# 🔴 Advanced Penetration Testing Lab
 **Author:** Md. Jipel Ahamed Arman  
 *Cybersecurity Enthusiast | Penetration Testing | Red Teaming | Network Security*
 
